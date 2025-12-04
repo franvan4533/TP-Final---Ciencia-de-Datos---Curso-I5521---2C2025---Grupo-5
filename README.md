@@ -1,4 +1,8 @@
 Descripcion de archivos:
+
+
+
+
 --> Consigna_Trabajo_Práctico_Final_Bank.docx : Consigna inicial del trabajo realizado
 --> Diccionario_Banco.xlsx : Glosario sobre cada feature incluida en el Dataset
 --> bank_subscription.csv :  CSV original provisto para el trabajo
